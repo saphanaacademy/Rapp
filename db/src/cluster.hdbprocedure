@@ -1,0 +1,10 @@
+PROCEDURE "Rapp.db::cluster" (
+		IN data "Rapp.db::tables.TTData", 
+		IN params "Rapp.db::tables.TTParams", 
+		OUT results "Rapp.db::tables.TTResults"
+	) LANGUAGE RLANG AS 
+BEGIN
+	library(cluster)
+	clusters <- kmeans(data[c('lifeSpend','newSpend','income','loyalty')], params[params$name=='CLUSTERS',]$value)
+	results <- cbind(data[c('id')], cluster=clusters$cluster)
+END

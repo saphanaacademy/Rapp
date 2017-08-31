@@ -1,0 +1,39 @@
+namespace Rapp.db;
+
+context tables {
+    table type TTData {
+        id        : Integer;
+        name      : String(100);
+        lifeSpend : Double;
+        newSpend  : Double;
+        income    : Double;
+        loyalty   : Double;
+    };
+    table type TTParams {
+        name  : String(100);
+        value : Integer;
+    };
+    table type TTResults {
+        id      : Integer;
+        cluster : Integer;
+    };
+
+    entity Customers {
+        key id        : Integer not null;
+            name      : String(100);
+            lifeSpend : Double;
+            newSpend  : Double;
+            income    : Double;
+            loyalty   : Double;
+    };
+
+    entity Params {
+        key name  : String(100) not null;
+            value : Integer;
+    };
+
+    entity Results {
+        key id      : Integer not null;
+            cluster : Integer;
+    };
+};

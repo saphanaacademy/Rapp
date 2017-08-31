@@ -1,0 +1,151 @@
+id,name,lifeSpend,newSpend,income,loyalty
+1,William Lucas        ,7.2,3.6,6.1,2.5
+2,Morris Allen         ,5.4,3.4,1.5,0.4
+3,Hugh Smith          ,6.9,3.2,5.7,2.3
+4,Henry Rufoote        ,5.5,2.3,4,1.3
+5,Thomas Phevens       ,6.1,2.9,4.7,1.4
+6,John Stilman         ,5,3.3,1.4,0.2
+7,Edmund Walden        ,5.8,2.7,5.1,1.9
+8,Humphrey Little       ,5.1,3.4,1.5,0.2
+9,Kelley Edward        ,6.4,3.2,5.3,2.3
+10,Christopher Cross,5.7,2.8,4.5,1.3
+11,Stevenson Charles    ,6.8,3,5.5,2.1
+12,Stilman John         ,4.3,3,1.1,0.1
+13,Powell Edward        ,7,3.2,4.7,1.4
+14,Willett Richard      ,5.4,3.4,1.7,0.2
+15,Nicholas Petman      ,5.4,3,4.5,1.5
+16,Roger Pratt           ,5.7,2.9,4.2,1.3
+17,Willie Clancy,6.3,2.9,5.6,1.8
+18,Johnny Doran        ,5.1,3.7,1.5,0.4
+19,Thomas Smith         ,6.3,2.8,5.1,1.5
+20,Richard Taverner     ,5.6,2.5,3.9,1.1
+21,Emme Merrimoth       ,5.7,2.6,3.5,1
+22,James Cameron    ,5.4,3.9,1.3,0.4
+23,Humphrey Thomas       ,6,3,4.8,1.8
+24,Johnson Nicholas     ,5.5,2.6,4.4,1.2
+25,Lane Ralfe           ,4.7,3.2,1.3,0.2
+26,Harry Windsor,6.8,2.8,4.8,1.4
+27,Morgan Pyne,5.9,3,4.2,1.5
+28,Newton Humfrey       ,5.1,3.8,1.9,0.4
+29,Killian Mugglestone,5,3.5,1.3,0.3
+30,Sir Walter Raleigh,5.8,4,1.2,0.2
+31,Rogers Master Hugh   ,7.7,2.8,6.7,2
+32,Wilson Captain John  ,5.2,2.7,3.9,1.4
+33,David Gilmour        ,4.4,2.9,1.4,0.2
+34,Nicholas Johnson     ,5,3,1.6,0.2
+35,John Jones           ,7.6,3,6.6,2.1
+36,Richard Stone        ,5.1,3.5,1.4,0.3
+37,Richard Arthur       ,6,3.4,4.5,1.6
+38,Lewes Wotton         ,5.7,3.8,1.7,0.3
+39,Margaret Smith    ,6.2,3.4,5.4,2.3
+40,John Gerrard         ,7.3,2.9,6.3,1.8
+41,Herne Griffith       ,5.7,2.5,5,2
+42,Jones Jane           ,6.7,3.1,5.6,2.4
+43,Newsome John         ,6.1,2.8,4.7,1.2
+44,Twyt John            ,5.7,4.4,1.5,0.4
+45,Julie Walters,5.6,2.7,4.2,1.3
+46,Audry Tappan         ,5.5,4.2,1.4,0.2
+47,Gabriel Harris       ,6.3,3.4,5.6,2.4
+48,Robert Macklyn       ,6.7,3.1,4.7,1.5
+49,Hewes John           ,6.3,3.3,6,2.5
+50,Conan Powell,6.3,2.3,4.4,1.3
+51,Rufoote Henry        ,6,2.2,5,1.5
+52,Stevens Thomas       ,6.4,2.8,5.6,2.2
+53,William Waters       ,6.3,2.7,4.9,1.8
+54,Philip Glass,6.2,2.2,4.5,1.5
+55,George Martyn        ,6.3,2.5,4.9,1.5
+56,Margaret Jones    ,5.5,2.5,4,1.3
+57,Gabriel McKeon       ,6.9,3.1,4.9,1.5
+58,Hutton Robert        ,4.6,3.1,1.5,0.2
+59,Man Jeremie          ,5.6,2.8,4.9,2
+60,Marler Walter        ,6.4,2.8,5.6,2.1
+61,Masters Robert       ,4.8,3.4,1.6,0.2
+62,Robert Smith             ,5.7,3,4.2,1.2
+63,Sare Richard         ,5,2.3,3.3,1
+64,Bill Stickers  ,6.1,2.6,5.6,1.4
+65,Whitton Frauncis     ,5.4,3.7,1.5,0.2
+66,William Greeneuille  ,6.4,2.9,4.3,1.3
+67,Iames Browewich      ,5.5,3.5,1.3,0.2
+68,Philip Owen             ,7.2,3,5.8,1.6
+69,Christopher Cooper   ,6.5,3,5.2,2
+70,Henry Defoe        ,5.5,2.4,3.8,1.1
+71,John Cotsmur         ,4.7,3.2,1.6,0.2
+72,Margaret Lawrence    ,6,2.2,4,1
+73,Richard Hakluyt      ,6.1,2.8,4,1.3
+74,Thomas Hoode         ,7.7,3.8,6.7,2.2
+75,Luddington Thomas    ,5,3.2,1.2,0.2
+76,Martyn George        ,4.9,3,1.4,0.2
+77,Morgan Captain Matthew,5,3.4,1.6,0.4
+78,Polison Michael      ,6,2.7,5.1,1.6
+79,Potkin Henry         ,5.5,2.4,3.7,1
+80,John Boole      ,5.1,3.8,1.5,0.3
+81,Spicer Edward        ,4.9,3.1,1.5,0.1
+82,White John           ,5,3.5,1.6,0.6
+83,Wright Richard       ,5.2,3.5,1.5,0.2
+84,Nicholas Ridley      ,4.6,3.2,1.4,0.2
+85,Anthony Cage         ,6.5,3,5.5,1.8
+86,John Taverner     ,4.9,2.5,4.5,1.7
+87,Henry Mylton         ,7.1,3,5.9,2.1
+88,Hewet Thomas         ,7.7,2.6,6.9,2.3
+89,Kelley Julia        ,4.8,3.4,1.9,0.2
+90,Ketcheman Edward     ,6.4,3.2,4.5,1.5
+91,Large Roger          ,5.1,3.5,1.4,0.2
+92,Lawrence Margaret    ,5.8,2.7,4.1,1
+93,Payne Rose           ,6.1,3,4.9,1.8
+94,George Michael      ,6.7,3,5,1.7
+95,Smythe Thomas        ,5.8,2.6,4,1.2
+96,Tayler Clement       ,5.1,3.8,1.6,0.2
+97,Viccars Elizabeth    ,6.9,3.1,5.4,2.1
+98,Michael Oldfield ,4.8,3.1,1.6,0.2
+99,Hugh Tayler          ,4.5,2.3,1.3,0.3
+100,William George       ,6.8,3.2,5.9,2.3
+101,Linsey John          ,6,2.9,4.5,1.5
+102,Nichols John         ,7.7,3,6.1,2.3
+103,Platt Captain Anthony,6.4,2.7,5.3,1.9
+104,Starte John          ,5.9,3,5.1,1.8
+105,Stevenson James      ,5,3.6,1.4,0.2
+106,Walters Haunce       ,5.4,3.9,1.7,0.4
+107,William Whitelaw        ,6.6,2.9,4.6,1.3
+108,William Berde        ,5.9,3.2,4.8,1.8
+109,Agnes Wood           ,5.8,2.7,5.1,1.9
+110,Roger Prat           ,5.2,3.4,1.4,0.2
+111,Thomas Ellis         ,7.4,2.8,6.1,1.9
+112,John Wright          ,4.4,3.2,1.3,0.2
+113,Richard Tomkins      ,6.9,3.1,5.1,2.3
+114,Charles Florrie      ,5.6,3,4.1,1.3
+115,Hulme Thomas         ,6.5,3,5.8,2.2
+116,Phevens Thomas       ,5,2,3.5,1
+117,John Lennon,6.2,2.9,4.3,1.3
+118,Prat Roger           ,4.9,3.1,1.5,0.1
+119,Russell Master       ,4.9,2.4,3.3,1
+120,Wooten Lewes         ,5.6,3,4.5,1.5
+121,Simon Ferdinando     ,6.6,3,4.4,1.4
+122,John Farre           ,6.7,3.3,5.7,2.1
+123,John White           ,4.6,3.4,1.4,0.3
+124,Robert Little        ,5.1,2.5,3,1.1
+125,Thomas Zenus       ,5,3.4,1.5,0.2
+126,Little Peter         ,4.8,3,1.4,0.1
+127,Lucas William        ,4.9,3.1,1.5,0.1
+128,Myllet Michael       ,6.3,3.3,4.7,1.6
+129,Vincent  Thomas      ,7.9,3.8,6.4,2
+130,Edward Powell        ,6.4,3.1,5.5,1.8
+131,Humphrey Newton       ,6.1,3,4.6,1.4
+132,Elizabeth Viccars    ,4.6,3.6,1,0.2
+133,William Gamage       ,6.7,2.5,5.8,1.8
+134,Edmund Nevil         ,5.7,2.8,4.1,1.3
+135,Laurentson Martin    ,6.3,2.5,5,1.9
+136,Marshall Christopher ,5.6,2.9,3.6,1.3
+137,Stukely John         ,6.5,3.2,5.1,2
+138,David Vaughan,7.2,3.2,6,1.8
+139,White William        ,6.5,2.8,4.6,1.5
+140,John Bridger         ,6.7,3,5.2,2.3
+141,Griffen Jones        ,6.7,3.1,4.4,1.4
+142,John Sampson         ,5.2,4.1,1.5,0.1
+143,Thomas MacGregor         ,4.8,3,1.4,0.3
+144,Edward Heath        ,6.7,3.3,5.7,2.5
+145,Michael Myllet       ,4.4,3,1.3,0.2
+146,Richard Kemme        ,5.1,3.3,1.7,0.5
+147,Richard Smith,5.3,3.7,1.5,0.2
+148,Robert Wilkinson     ,5.8,2.7,3.9,1.2
+149,Edmund Blackadder         ,6.2,2.8,4.8,1.8
+150,Samuel Johnson,5.8,2.8,5.1,2.4
